@@ -1,1 +1,1 @@
-# datadog-google-cloud-integration-tf
+# datadog_integration_google_cloud_logs
